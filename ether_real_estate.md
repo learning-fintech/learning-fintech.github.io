@@ -3,6 +3,8 @@ layout: page
 title: The ether_real_estate Package
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JrxzION-IYhCAkk3uGm8ncADZckmTfs2?usp=sharing)
+
 This software simulates a game in which players purchase properities that rent out real estate to businesses.  When leases expire, players submit bids to the firm for a new lease, and the winning player adds the firm to one of their properties for the duration of the lease.
 
 All transactions take place on a private Ethereum blockchain, which allows students to explore blockchain technology as a ledger for recording transactions.
