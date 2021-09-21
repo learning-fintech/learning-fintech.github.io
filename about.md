@@ -19,9 +19,11 @@ Users will:
 4. submit bids for lease agreements
 5. monitor transactions on the blockchain; public transaction records allows for strategic behavior!
 
+<!--
 If you're using the content on this site for self-study, or using the `ether_real_estate` package for your own teaching needs, donations are welcome:
 <ul>
 	<li>BTC: 3M6ZC6xpW8sjNoBdE6NH9sxnGb7RwPSU6L </li>
 	<li>ETH: 0x0aA7374Cb745Bb86704925185d9c7bD025ac08b8 </li>
 	<li>DOGE: D8H2H3eG6SWGt69xR9AJCBBYjgUERUpoEt </li>
 </ul>
+-->
