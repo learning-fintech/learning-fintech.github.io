@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  This site was originally built to serve lecture material for <a href="https://nordlund.ai">@nordlund</a>'s FIN 4820 course at LSU.
+  This site was originally built to serve lecture material for <a href="https://jamesnordlund.github.io">@nordlund</a>'s FIN 4820 course at LSU.
 </p>
 
 Material on this site is published from [Jupyter](https://jupyter.org/) notebooks using the excellent [Jupyter Book](https://jupyterbook.org/intro.html) project.  An easy way to get started using live versions of these notebooks is with [Google Colaboratory](https://colab.research.google.com/notebooks/).
